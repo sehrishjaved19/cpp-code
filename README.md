@@ -1,4 +1,4 @@
 # cpp-code
 <br>
-This is my C++ codes
+Hand's-on practice set
 
